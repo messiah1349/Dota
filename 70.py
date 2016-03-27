@@ -30,7 +30,7 @@ print (mas[10])
 	
 inp = int(input("Push The number"))
 print(GetDivisitors(inp)) """
-iterSize = 10**6
+iterSize = 10**7
 
 div = []
 for i in range(iterSize):
